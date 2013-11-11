@@ -1,0 +1,9 @@
+[submodule "HTTPFetcher"]
+	path = HTTPFetcher
+	url = https://github.com/jerryrt/gtm-http-fetcher.git
+[submodule "OAuth2"]
+	path = OAuth2
+	url = https://github.com/jerryrt/gtm-oauth2.git
+[submodule "JSON"]
+	path = JSON
+	url = https://github.com/stig/json-framework.git
